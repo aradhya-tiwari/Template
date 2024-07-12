@@ -1,0 +1,17 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@libsql/client": "^0.7.0",
+    "kysely": "^0.27.4",
+    "kysely-codegen": "^0.15.0"
+  }
+}
